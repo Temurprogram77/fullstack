@@ -92,8 +92,6 @@ body {
 /* Toggle (mobile menu) */
 .nav__toggle {
   display: none;
-  font-size: 26px;
-  cursor: pointer;
 }
 
 /* Responsive */
